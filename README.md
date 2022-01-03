@@ -16,8 +16,6 @@
 <a href="https://github.com/nmnishant?tab=repositories&q=&type=&language=javascript&sort="> <img width ='50px' style="padding-left:20px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href="https://github.com/nmnishant?tab=repositories&q=&type=&language=c%2B%2B&sort="> <img width ='50px' style="padding-left:20px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> 
 
-<div><a href="https://www.leetcode.com/nmnishant/" target="blank"><img align="center" src="https://leetcode.card.workers.dev/?username=nmnishant&style=default&font=Courier%20New&extension=null" width="450px" height="350px" /></a> </div>
-
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmnishant&show_icons=true&locale=en&layout=compact" />
     <img align="center" style = "padding-left:50px" src="https://github-readme-stats.vercel.app/api?username=nmnishant&show_icons=true&locale=en" /></p>
